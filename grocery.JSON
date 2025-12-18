@@ -1,3 +1,27 @@
 [
+ {
+    "name": bread,
+    "expirationDate": "2025-12-20",
+    "price":5,
+    "perishable":1
+  },
+{
+    "name": milk,
+    "expirationDate": "2025-12-23",
+    "price":7,
+    "perishable":1
+  },
+{
+    "name": soda,
+    "expirationDate": "2026-12-27",
+    "price":4,
+    "perishable":0
+  },
+{
+    "name": steak,
+    "expirationDate": "2025-12-26",
+    "price":17,
+    "perishable":1
+  },
 
 ]
